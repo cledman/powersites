@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Index"],"mappings":"2FAAA,gCAQeA,UANA,WACX,OACI","file":"component---src-pages-index-js-8ced88c76113802679f5.js","sourcesContent":["import React from 'react'\r\n\r\nconst Index =  () => {\r\n    return (\r\n        <h1>Olá Powersites</h1>\r\n    )\r\n}\r\n\r\nexport default Index"],"sourceRoot":""}

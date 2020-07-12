@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{MGsB:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),r=t.n(a),l=t("rY4l");e.default=function(){return r.a.createElement("div",null,r.a.createElement(l.a,null),r.a.createElement("h1",null,"Contato"))}},rY4l:function(n,e,t){"use strict";var a=t("q1tI"),r=t.n(a);e.a=function(){return r.a.createElement("h1",null,"Pwer")}}}]);
+//# sourceMappingURL=component---src-pages-contato-js-768a0d0028941addd976.js.map
