@@ -2,7 +2,7 @@
 
 This project is part of the [Devpleno](http://devpleno.com/) course and consists of a website rendered with [Gatsby](https://www.gatsbyjs.org/)
 
-We mainly use [React](https://reactjs.org), [Express](https://expressjs.com/) and [Gatsby](https://www.gatsbyjs.org/).
+We mainly use [React](https://reactjs.org) and [Gatsby](https://www.gatsbyjs.org/).
 
 # Guide
 
@@ -43,7 +43,6 @@ We mainly use [React](https://reactjs.org), [Express](https://expressjs.com/) an
 
 * [NodeJS](https://nodejs.org/en/) to handle the server, 
 * [React](https://reactjs.org) to handle the rendering, 
-* [Express](https://expressjs.com/)
 * [Gatsby](https://www.gatsbyjs.org/) to handle statics versions
 
 
